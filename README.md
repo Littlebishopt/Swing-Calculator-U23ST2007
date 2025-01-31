@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Tamai Joy Malem-Enoga 
+- U23ST1007
 
 ## Getting Started
 
